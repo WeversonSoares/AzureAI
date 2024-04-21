@@ -1,0 +1,22 @@
+A primeira itenção foi identificar como a inteligência conseguia dissernir homens de mulheres, para entender bem o entedimento, peguei a foto de 4 pessoas no google e quis ver o resultado de como eles seriam entendidos pela IA.
+
+**Resultado TXT**
+
+A collage of a man with long hair
+
+**Resultado JSON**
+
+{
+  "apim-request-id": "daea0ee3-d133-4096-bd16-3ae4f25dff06",
+  "content-length": "160",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a collage of a man with long hair",
+    "confidence": 0.8308255076408386
+  },
+  "metadata": {
+    "width": 504,
+    "height": 504
+  }
+}

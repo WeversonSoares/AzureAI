@@ -1,0 +1,22 @@
+A terceira foi visando o entendimento de emoções e cenários comemorativos, um ser humando consegue entender tranquilamente por uma imagem, quando se refere a sentimentos ao que ele se refere, pensei em uma imagem de comemoração de um gol. O resultado foi bem satisfatório.
+
+**Resultado TXT**
+
+A group of men in football uniforms jumping in the air celebrating
+
+**Resultado JSON**
+
+{
+  "apim-request-id": "ae360702-4cac-4e4d-bae1-2e52d17cfae9",
+  "content-length": "181",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "A group of men in football uniforms jumping in the air celebrating",
+    "confidence": 0.7244453430175781
+  },
+  "metadata": {
+    "width": 518,
+    "height": 350
+  }
+}

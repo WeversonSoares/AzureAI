@@ -1,0 +1,22 @@
+A segunda foi para o entendimento de razões climaticas, tentando entender como ela mostraria esse cenário para o entendimento de outras pessoas.
+
+**Resultado TXT**
+
+Lightning lighting in the sky over a city
+
+**Resultado JSON**
+
+{
+  "apim-request-id": "09f662ff-e7f2-4832-b18a-38cc81182526",
+  "content-length": "168",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "lightning lighting in the sky over a city",
+    "confidence": 0.7062362432479858
+  },
+  "metadata": {
+    "width": 498,
+    "height": 314
+  }
+}
