@@ -17,4 +17,10 @@ Este tipo de trabalho é interessante, não apenas por podermos realizar a inclu
 
 Uma imagem com o texto alternativo de forma nativa ajuda muito pessoas com problemas visuais e com este recurso, encontramos um sistema mais imersivo para todos.
 
+
+#**Analise de Sentimentos com Language**
+
+No terceiro Lab, o desafio foi de aperfeiçoamento e entendeimento da plataforma Language para analise de sentimentos em falas.
+Imaginando o seguinte cenário onde um usuário deveria testar um game em que o ultimo chefe era extremamente dificil e passar um feedback de como foi enfrenta-lo.
+
 Foco no aprendizado sempre 💻🤓.
