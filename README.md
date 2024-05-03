@@ -23,4 +23,8 @@ Uma imagem com o texto alternativo de forma nativa ajuda muito pessoas com probl
 No terceiro Lab, o desafio foi de aperfeiçoamento e entendeimento da plataforma Language para analise de sentimentos em falas.
 Imaginando o seguinte cenário onde um usuário deveria testar um game em que o ultimo chefe era extremamente dificil e passar um feedback de como foi enfrenta-lo.
 
+
+#**Consulta de doc**
+
+
 Foco no aprendizado sempre 💻🤓.
