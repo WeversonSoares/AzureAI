@@ -1,0 +1,73 @@
+{
+    "documents": [
+        {
+            "id": "id__31387",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.48,
+                "neutral": 0.02,
+                "negative": 0.5
+            },
+            "sentences": [
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 0,
+                    "length": 206,
+                    "text": "Não gostei muito do fato do personagem ser um pouco apelão, deu muito trabalho para conseguir enfrenta-lo, entretanto, fui capaz de dar a volta por cima e encontrar um bug capaz de fazer ele ser derrotado. ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 28,
+                            "length": 10,
+                            "text": "personagem",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/0/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 4,
+                            "length": 6,
+                            "text": "gostei",
+                            "isNegated": true
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.95,
+                        "neutral": 0.03,
+                        "negative": 0.01
+                    },
+                    "offset": 206,
+                    "length": 22,
+                    "text": "No fim, tudo deu certo",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
